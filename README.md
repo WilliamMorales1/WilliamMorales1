@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WilliamMorales1
-- 👀 I’m interested in Linguistics & AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m William Morales
+- 👀 I’m interested in Linguistics, NLP, AI, and Data Analytics
+- 🌱 I’m currently learning Django & React
+- 💞️ I’m looking to collaborate on any projects involving natural language
+- 📫 How to reach me: wsmbuis5224@gmail.com
 
 <!---
 WilliamMorales1/WilliamMorales1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
