@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Morales
-- 👀 I’m interested in Linguistics, NLP, AI, and Data Analytics/Data Science
-- 🌱 I’m currently learning Django & React
+- 👀 I’m interested in Linguistics, NLP, AI, and Data Science
+- 🌱 I’m currently learning LLM & AI development
 - 💞️ I’m looking to collaborate on any projects involving natural language
 - 📫 How to reach me: wsmbuis5224@gmail.com
 
