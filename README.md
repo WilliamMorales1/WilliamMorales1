@@ -2,6 +2,7 @@
 
 Computer Science undergrad (Honors) at LSU with a concentration in Data Science, minors in Linguistics and Spanish. I love doing things in the intersection of NLP, linguistics, and software architecture: building tools for language data, doing sociolinguistic research, and doing some small full-stack projects when I have time.
 
+- 🚀 **Live projects:** [Louisiana Creole dictionary](https://creole-dictionary.fly.dev/) · [Multilingual Wordle](https://multilingual-wordle.fly.dev/)
 - 🔬 **Research:** sociolinguistic variation in Spanish intensifiers, English dialect perception, distillation of self-supervised speech models
 - 🗣️ **Languages:** English (native), Spanish (proficient), French/Japanese/Chinese (intermediate)
 - 🌱 **Currently learning:** Distillation of AI models
