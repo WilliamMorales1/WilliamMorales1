@@ -1,16 +1,23 @@
-### Hi, I'm William
+# William Morales
 
-Computer Science undergrad (Honors) at LSU with a concentration in Data Science, minors in Linguistics and Spanish. I love doing things in the intersection of NLP, linguistics, and software architecture: building tools for language data, doing sociolinguistic research, and doing some small full-stack projects when I have time.
+I'm a Computer Science honors student at LSU studying Data Science, with minors in Linguistics and Spanish. I work on projects involving language, software, and data.
 
-- 🚀 **Live projects:** [Louisiana Creole dictionary](https://creole-dictionary.fly.dev/) · [Multilingual Wordle](https://multilingual-wordle.fly.dev/)
-- 🔬 **Research:** sociolinguistic variation in Spanish intensifiers, English dialect perception, distillation of self-supervised speech models
-- 🗣️ **Languages:** English (native), Spanish (proficient), French/Japanese/Chinese (intermediate)
-- 🌱 **Currently learning:** Distillation of AI models
-- 💻 **Stack:** Python, Go, TypeScript/React, Django, pandas, PostgreSQL, SQLite
-- 📫 **Reach me:** wsmbuis5224@gmail.com · [LinkedIn](https://www.linkedin.com/in/william-morales-0336aa240)
-- 🌐 **Portfolio:** [williammorales1.github.io](https://WilliamMorales1.github.io)
+## Research interests
 
-<!---
-WilliamMorales1/WilliamMorales1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Variationist Sociolinguistics
+- Phonetics
+- NLP
+
+## Languages
+
+English, Spanish, French, Japanese, and Chinese.
+
+## Currently learning
+
+Model distillation and efficient machine learning.
+
+## Contact
+
+wsmbuis5224@gmail.com
+
+[Portfolio](https://WilliamMorales1.github.io)
